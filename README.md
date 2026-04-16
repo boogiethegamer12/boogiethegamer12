@@ -1,5 +1,8 @@
 https://hollowknight.io
 youtube.com
 google.com
-https://now.gg
-https://login.nvgs.nvidia.com/v1/login/identifier?preferred_nvidia=true&context=Initial&theme=Bright&locale=de-DE&prompt=select_account&key=eyJhbGciOiJIUzI1NiJ9.eyJzZSI6IlU5WWwiLCJ0b2tlbklkIjoiMTQ5NDIxNjI5NjExMzU5MDI3MiIsIm90IjoiMTQ5NDIxNjI5NjEzMDM2NzQ4OCIsImV4cCI6MTc3NjQwNTcyNiwiaWF0IjoxNzc2MzE5MzI2LCJqdGkiOiJhMjBmNmJlMy03MzcxLTQ5NTgtYWUyYy0yYjRjMTJmMzU1ZjMifQ.XrWgYQdz8PMFs9oBhQB0GRadegZYcWOUFaIxYIsMDmY&client_id=310670214980174257
+https://now.gg. 
+https://web.cloudmoonapp.com
+](https://int-v3.bitbucket.io/play.html)o
+https://m.youtube.com
+https://www.google.com/?authuser=3
